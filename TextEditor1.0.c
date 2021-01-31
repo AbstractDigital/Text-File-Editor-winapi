@@ -5,7 +5,6 @@
 #define FILE_EXIT 3
 #define FILE_SAVE_JPEG 4
 #define FILE_SAVE_PNG 5
-#define Ch
 
 LRESULT CALLBACK WindowsProcedure(HWND, UINT, WPARAM, LPARAM) ;     /*/ Declares the WindowsProcedure function before reference /*/
 
