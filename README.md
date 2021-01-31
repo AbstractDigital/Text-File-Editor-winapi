@@ -10,7 +10,7 @@ already complete-
  
 currently still working on-
   
-  1.dynamic input edit control
+  	1.dynamic input edit control
   
 	2.saving as .txt file
   
